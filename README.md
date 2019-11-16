@@ -1,2 +1,2 @@
 # Greyhound
-A framework to build real-time, event-driven complex event processor using Kafka and Kafka Streams
+A realtime stream processing framework in python, built from the ground up to make you fall in love with it.
