@@ -131,3 +131,10 @@ dmypy.json
 
 .idea/
 .DS_Store
+
+# pipenv generated
+Pipfile
+Pipfile.lock
+
+# vscode specific
+.vscode/
